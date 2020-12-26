@@ -5,4 +5,3 @@ nota = float(input('Digite uma nota entre 0 e 10... '))
 while nota < 0 or nota > 10:
     print('Você digitou um valor inválido')
     nota = float(input('Digite novamente, um valor entre 0 e 10... '))
-
